@@ -1,0 +1,7 @@
+name = "Aminatadmb"
+uuid = "55ef733f-f6c9-4604-a956-70471d6dccd9"
+authors = ["aminatdmb <aminatadmb72@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
