@@ -1,3 +1,3 @@
-function f(x) : 
+function f(x)
     a * x + b
-end 
+end
