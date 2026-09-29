@@ -1,3 +1,2 @@
-function f(x)
-    a * x + b
-end
+using Aminatadmb
+f(2)
